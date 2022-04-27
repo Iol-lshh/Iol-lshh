@@ -104,7 +104,9 @@ Oracle Database AWS EC2 Apache Tomcat Flask Java JavaScript MSSQL(Microsoft SQL 
 >Python Flask AWS EC2 Google Dialogflow   
 >여러 모델들을 통한 부동산 실거래가 예측   
 >Flask를 AWS EC2 위에 올려, Dialogflow에 연결하였습니다.   
->데이터를 KoNLPy를 이용하여 형태소 분석, 감정 분석을 하여 데이터를 가공하고, ARIMA 모델을 통해 실거래가를 예측을 시도합니다.   
+>데이터를 KoNLPy를 이용하여 
+>형태소 분석, 감정 분석을 하여 데이터를 가공하고, 
+>ARIMA 모델을 통해 실거래가를 예측을 시도합니다.   
    
    
 ---
