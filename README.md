@@ -19,7 +19,7 @@ Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsof
 
 ## 그 외,
 - OOP에서의 추상화와, 디자인 패턴(GoF)을 항상 고려합니다.
-- 넷플릭스 OSS에 관심이 있습니다(MSA)
+- 서블릿 기반과 이벤트 루프 기반 웹 서버의 차이를 명확히 압니다.
 - 인터페이스 구현에 흥미가 높습니다(RestAPI, DB Link, pub/sub, 메시징 큐 등...)
    
 - 가장 중요한 것은 문서작성이라고 생각합니다.   
