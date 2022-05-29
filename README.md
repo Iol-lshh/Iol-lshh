@@ -14,7 +14,7 @@
 - 다른 영속성 시스템도 실행계획을 보고 쿼리 작성 및 튜닝이 가능할 정도로, 무난히 사용가능합니다.
 - EC2, ELB, ES3, Lambda 등의 AWS 서비스 경험(하)
 
-Oracle Database AWS EC2 Apache Tomcat Flask Java JavaScript MSSQL(Microsoft SQL Server) Python Spring Google Dialogflow ASP.NET JSP MyBatis NginX
+Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsoft SQL Server), Python, Spring, Google Dialogflow, ASP.NET, JSP, MyBatis, NginX
 
 
 ## 그 외,
@@ -137,7 +137,7 @@ Oracle Database AWS EC2 Apache Tomcat Flask Java JavaScript MSSQL(Microsoft SQL 
 ---
 
 # 목표
-- 주도적인 모듈 구현
+- 주도적인 모듈 구현 경험  
 - MSA를 위한 심화 기반 쌓기
 - JAVA 최적화(GC 튜닝 등의 코어단)에 대한 고민과 공부
 - Spring WebFlux, Spring Cloud에 대한 학습
