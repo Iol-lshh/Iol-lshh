@@ -7,10 +7,12 @@
 - JAVA(중)
 - ES6+(중상)
 - C#(하)
-- 여러 프레임워크 경험(Spring, ASP.NET, NodeJS 기반)
+- Spring MVC, ASP.NET 서블릿 기반 WAS
+- Flask, NodeJS 이벤트 루프 기반 WAS
 - Vue(하), React(하)
 - MSSQL(중상)
-- 다른 영속성 시스템도 무난히 사용합니다.
+- 다른 영속성 시스템도 실행계획을 보고 쿼리 작성 및 튜닝이 가능할 정도로, 무난히 사용가능합니다.
+- EC2, ELB, ES3, Lambda 등의 AWS 서비스 경험(하)
 
 Oracle Database AWS EC2 Apache Tomcat Flask Java JavaScript MSSQL(Microsoft SQL Server) Python Spring Google Dialogflow ASP.NET JSP MyBatis
 
@@ -136,4 +138,4 @@ Oracle Database AWS EC2 Apache Tomcat Flask Java JavaScript MSSQL(Microsoft SQL 
 
 # 목표
 - MSA를 위한 기반 쌓기
-- JAVA 최적화에 대한 고민과 공부
+- JAVA 최적화(GC 튜닝 등의 코어단)에 대한 고민과 공부
