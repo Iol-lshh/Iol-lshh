@@ -14,7 +14,7 @@
 - 다른 영속성 시스템도 실행계획을 보고 쿼리 작성 및 튜닝이 가능할 정도로, 무난히 사용가능합니다.
 - EC2, ELB, ES3, Lambda 등의 AWS 서비스 경험(하)
 
-Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsoft SQL Server), Python, Spring, Google Dialogflow, ASP.NET, JSP, MyBatis, NginX
+Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsoft SQL Server), Python, Spring, Google Dialogflow, ASP.NET, JSP, MyBatis, NginX, RabbitMQ
 
 
 ## 그 외,
