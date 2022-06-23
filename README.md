@@ -10,7 +10,7 @@
 - Spring MVC, ASP.NET 서블릿 기반 WAS
 - Flask, NodeJS 이벤트 루프 기반 WAS
 - Vue(하), React(하)
-- MSSQL(중상)
+- [MSSQL(중상)](https://github.com/Iol-lshh/portfolio/tree/main/MSSQL)
 - 다른 영속성 시스템도 실행계획을 보고 쿼리 작성 및 튜닝이 가능할 정도로, 무난히 사용가능합니다.
 - EC2, ELB, ES3, Lambda 등의 AWS 서비스 경험(하)
 
@@ -31,8 +31,11 @@ Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsof
    프로 개발자가 되려면 기준을 정립해야겠다고 생각했습니다.   
    때문에, 베스트 프렉티스에 대해 끊임없는 고민을 하였고, 앞선 개발자 선배들이 고민을 정리한,  
    디자인 패턴 및 클린 코드를 공부하여 기준을 잡았습니다.  
-- 기본이 가장 화려한 것입니다. 기술의 부채를 쌓지 않는 것을 뛰어넘어, 심화된 기본을 갖춰, 항상 흔들림 없는 개발 실력을 위해 노력합니다.   
-   
+- **기본이 가장 화려한 것입니다.** 
+	기술의 부채를 쌓지 않는 것을 뛰어넘어, 심화된 기본을 갖춰, 항상 흔들림 없는 개발 실력을 위해 노력합니다.   
+- **닌자가 되지 않고자 합니다.**
+	여러 추측만 내놓고 사라지는 개발자는 되지 않겠습니다.  
+	테스트와 정량화 도구를 통한 객관적 수치 활용을 공부중입니다.   
 
 ---
 
@@ -137,8 +140,9 @@ Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsof
 ---
 
 # 목표
-- 주도적인 모듈 구현 경험  
+- 주도적인 모듈 구현 경험       
 - MSA를 위한 심화 기반 쌓기
+	(lb7에서 오토스케일링을 이용한 부하 처리 기법 등.. with Django)         
 - JAVA 최적화(GC 튜닝 등의 코어단)에 대한 고민과 공부
 - Spring WebFlux, Spring Cloud에 대한 학습
 
