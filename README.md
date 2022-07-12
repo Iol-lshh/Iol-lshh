@@ -15,6 +15,8 @@
 	- 잠금과 인덱스, 물리조인에 대해 설명할 수 있습니다.
 - 다른 영속성 시스템도 실행계획을 보며, 자유롭게 쿼리 작성 가능합니다.
 - EC2, ELB, ES3, Lambda 등의 AWS 서비스 경험(하)
+- Git(하)
+- Docker(하)
 
 Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsoft SQL Server), Python, Spring, Google Dialogflow, ASP.NET, JSP, MyBatis, NginX, RabbitMQ
 
@@ -146,6 +148,9 @@ Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsof
 >기간 : 2021.03 ~ 2022.05   
 >ES6+ 에 대한 심화 기본을 쌓았습니다.   
    
+###  402 랩실 C 기초 스터디
+>기간 : 2019.03 ~ 2020.06   
+>C에 대한 기초 스터디를 후배의 입장에서 발표하고, 선배(학부 랩장)의 입장에서 리드했습니다.    
    
 ---
 
@@ -155,10 +160,11 @@ Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsof
 
 ---
 
-# 목표
+# todo
 - 주도적인 모듈 구현 경험       
-- MSA를 위한 심화 기반 쌓기
-	(lb7에서 오토스케일링을 이용한 부하 처리 기법 등.. with Django)         
+- MSA를 위한 심화 기반 쌓기    
+	(lb7에서 오토스케일링을 이용한 부하 처리 기법 등.. with Django)        
 - JAVA 최적화(GC 튜닝 등의 코어단)에 대한 고민과 공부
 - Spring WebFlux, Spring Cloud에 대한 학습
-
+- git 배포 전략에 대한 베스트 프렉티스 학습
+- 도커 오케스트레이션에 대한 심화 기본 학습
