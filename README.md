@@ -10,13 +10,18 @@
 - Spring MVC 서블릿 기반 WAS
 - Flask, NodeJS 이벤트 루프 기반 WAS
 - Vue(하), React(하)
-- [MSSQL(중)](https://github.com/Iol-lshh/portfolio/blob/main/MSSQL/%EC%9D%B8%EC%88%98%EC%9D%B8%EA%B3%84%20%EB%B3%B4%EC%A0%95.sql)
+- MSSQL(중)
+	- [작성한 중급 쿼리](https://github.com/Iol-lshh/portfolio/tree/main/MSSQL)
 	- 잠금과 인덱스, 물리조인에 대해 설명할 수 있습니다.
 - 다른 영속성 시스템도 실행계획을 보며, 자유롭게 쿼리 작성 가능합니다.
 - EC2, ELB, ES3, Lambda 등의 AWS 서비스 경험(하)
 
 Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsoft SQL Server), Python, Spring, Google Dialogflow, ASP.NET, JSP, MyBatis, NginX, RabbitMQ
 
+## 제가 생각하는 상중하
+- 상 : 실제 물리적 작동 및 엔진을 완벽히 파악하고 있으며, 튜닝이 가능합니다. 스펙을 꿰뚫고 있습니다. 스택오버플로우에서 대접을 받을 수 있습니다.
+- 중 : 자유로운 작성이 가능하며, 구조와 퍼포먼스를 고려합니다. 기본입니다. (이립)
+- 하 : 코드 파악이 가능하며, 작업이 가능합니다. 
 
 ## 그 외,
 - OOP에서의 추상화와, 디자인 패턴(GoF)을 항상 고려합니다.
