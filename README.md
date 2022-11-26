@@ -2,26 +2,30 @@
 # 자기소개
 
 ## 보유 기술 스택
-- JAVA(중)
+- JAVA(중하)
 	- Eden/Tenured 영역, 병렬 GC의 작동 기초를 설명할 수 있습니다.
 - ES6+(중)
 	- 동적 타입, 실행컨텍스트, 비동기 관리에 대해 설명할 수 있습니다.
 - C#(하)
 - Spring MVC 서블릿 기반 WAS (중하)
-	- Junit, REST Docs, JPA, QueryDSL, Actutator, JMX
+	- Junit, REST Docs
+	- MyBatis, JPA, QueryDSL
+	- Security
+	- Actutator, JMX
 - Spring Cloud (하)
 	- Eureka, Hystrix, Spring Cloud Config
-
-- Flask, NodeJS 이벤트 루프 기반 WAS
+- Flask, NodeJS 이벤트 루프 기반 WAS (하)
 - Vue(하), React(하)
 - MSSQL(중)
-	- [작성한 중급 쿼리](https://github.com/Iol-lshh/portfolio/tree/main/MSSQL)
+	- [작성한 쿼리 예](https://github.com/Iol-lshh/portfolio/tree/main/MSSQL)
 	- 잠금과 인덱스, 물리조인에 대해 설명할 수 있습니다.
-- 다른 영속성 시스템도 실행계획을 보며, 자유롭게 쿼리 작성 가능합니다.
+	- 다른 영속성 시스템도 실행계획을 보며, 자유롭게 쿼리 작성 가능합니다.
+- MongoDB(하)
 - EC2, ELB, ES3, Lambda 등의 AWS 서비스 경험(하)
 - Git(하)
 - Docker(하)
-
+- Kafka, Zoo Keeper(하)
+   
 Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsoft SQL Server), Python, Spring, Google Dialogflow, ASP.NET, JSP, MyBatis, RabbitMQ
 
 ## 제가 생각하는 상중하
@@ -50,9 +54,11 @@ Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsof
 ---
 
 # 경력
-
-## 천재교과서
->기간 : 2021.01 ~ (재직중)    
+## 천재교과서 차세대구축팀
+> 기간 : 2022.10 ~ (재직중)
+>   
+## 천재교과서 중고영업개발팀
+> 기간 : 2021.01 ~ 2022.10    
 > 백오피스 인 CRM, MGT 및 회원, 물류, SMS 시스템을 운영했습니다.(풀스택)    
 >    
 >### 서울런 크로스 플랫폼 자동 로그인   
@@ -95,6 +101,12 @@ Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsof
 ---
 
 # 기타 프로젝트
+
+### SpringCloud를 이용한, 무료체험 신청 MSA
+>기간 : 2022.10 ~ (진행중)
+>SpringBoot
+>SpringMVC, Netflix Eureka, Spring Config Server, JPA
+>[chunjae-spring-practice6](https://github.com/Iol-lshh/-chunjae-spring-practice6)
 
 ### SpringMVC JPA 이용한, 게시글 REST API
 >기간 : 2022.06   
