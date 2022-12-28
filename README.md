@@ -14,10 +14,12 @@
 - Spring MVC 서블릿 기반 WAS (중하)
 	- Junit, REST Docs
 	- MyBatis, JPA, QueryDSL
-	- Security
+	- Spring Security
 	- Actutator, JMX
 - Spring Cloud (하)
-	- Eureka, Hystrix, Spring Cloud Config
+	- Netflix Eureka, Hystrix
+        - Spring Cloud Config
+        - Spring Cloud Gateway
 - Flask, NodeJS 이벤트 루프 기반 WAS (하)
 - Vue(하), React(하)
 - MSSQL(중)
@@ -28,7 +30,7 @@
 - EC2, ELB, ES3, Lambda 등의 AWS 서비스 경험(하)
 - Git(하)
 - Docker(하)
-- Kafka, Zoo Keeper(하)
+- Apache Kafka, Apache Zoo Keeper(하)
    
 Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsoft SQL Server), Python, Spring, Google Dialogflow, ASP.NET, JSP, MyBatis, RabbitMQ
 
@@ -205,4 +207,6 @@ Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsof
 	- JMX
 
 - 도커와 AWS, 스프링클라우드를 이용한 자가수복과 오토스케일링 패턴 세부 *공부*(by IaC)
-- CHAD 자격증
+- CKA 자격증
+- Zipkin, Spring Cloud Sleuth 분산 트랜잭션을 위한 추적 시스템 구축
+- CI/ CD (Jenkins, Gitlab)
