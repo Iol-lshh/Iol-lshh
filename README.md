@@ -18,8 +18,8 @@
 	- Actutator, JMX
 - Spring Cloud (하)
 	- Netflix Eureka, Hystrix
-        - Spring Cloud Config
-        - Spring Cloud Gateway
+	- Spring Cloud Config
+	- Spring Cloud Gateway
 - Flask, NodeJS 이벤트 루프 기반 WAS (하)
 - Vue(하), React(하)
 - MSSQL(중)
