@@ -3,6 +3,7 @@
 
 ## 보유 기술 스택
 - JAVA(중)
+	- [modern java 기초](https://github.com/Iol-lshh/style-guide/blob/main/java/doc_Java_Style.md)
 	- Eden/Tenured 영역, 병렬 GC의 작동 기초를 설명할 수 있습니다.
 - ES6+(중)
 	- 동적 타입, 실행컨텍스트, 비동기 관리에 대해 설명할 수 있습니다.
