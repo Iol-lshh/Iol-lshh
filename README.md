@@ -6,13 +6,18 @@
 - SQLD
 
 ## 보유 기술 스택
-- JAVA(중하)
+- JAVA(중)
 	- [modern java 기초](https://github.com/Iol-lshh/style-guide/blob/main/java/doc_Java_Style.md)를 활용할 수 있습니다.
+		- 동작 파라미터화 (람다, 메서드 참조)
+		- Optional
+		- Stream API
 	- Eden/Tenured 영역, 병렬 GC의 작동 기초를 설명할 수 있습니다.
-- ES6+(중)
+- JavaScript(중)
+	- [modern javascript(ES6+) 기초](https://github.com/Iol-lshh/style-guide/blob/main/javascript/doc_Js_Style.md)를 활용할 수 있습니다.
 	- 동적 타입, 실행컨텍스트, 비동기 관리에 대해 설명할 수 있습니다.
 - C#(하)
-- Spring MVC 서블릿 기반 WAS (중하)
+- Spring MVC 서블릿 기반 WAS (중)
+	- [Spring Boot](https://github.com/Iol-lshh/style-guide/blob/main/java/doc_Spring_Style.md)를 활용할 수 있습니다.
 	- Junit, REST Docs
 	- MyBatis, JPA, QueryDSL
 	- Spring Security
