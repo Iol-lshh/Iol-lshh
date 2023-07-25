@@ -1,6 +1,6 @@
 
 # 자기소개
-
+[by https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md](https://github-readme-stats.vercel.app/api?username=iol-lshh&count_private=true&show_icons=true&theme=buefy)
 ## 보유 자격증
 - 정보처리기사
 - SQLD
