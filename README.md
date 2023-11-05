@@ -188,8 +188,9 @@ Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsof
 # 스터디
 
 ### 천재교과서 MSA 세미나
-> 기간: 2023.11
-> MSA에 대한 세미나를 진행했습니다.
+> 기간: 2023.11   
+> **MSA 소개**를 주제로 세미나를 진행했습니다.   
+> - [MSA 세미나용 자료](https://github.com/Iol-lshh/style-guide/blob/main/whats_msa/whats_msa.md)
 
 ### 타입스크립트 프로그래밍 스터디
 > 기간: 2022.02 ~ 2022.03   
