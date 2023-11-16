@@ -6,36 +6,32 @@
 - SQLD
 
 ## 보유 기술 스택
-- JAVA(중)
+- JAVA (중)
 	- [modern java 기초](https://github.com/Iol-lshh/style-guide/blob/main/java/doc_Java_Style.md)를 활용할 수 있습니다.
 		- 동작 파라미터화
 		- Optional
 		- Stream API
 	- Eden/Tenured 영역, 병렬 GC의 작동 기초를 설명할 수 있습니다.
-- JavaScript(중)
+- JavaScript (중)
 	- [modern javascript(ES6+) 기초](https://github.com/Iol-lshh/style-guide/blob/main/javascript/doc_Js_Style.md)를 활용할 수 있습니다.
-	- 동적 타입, 실행컨텍스트, 비동기 관리에 대해 설명할 수 있습니다.
-- Spring MVC 서블릿 기반 WAS (중)
-	- [Spring Boot](https://github.com/Iol-lshh/style-guide/blob/main/java/doc_Spring_Style.md)를 활용할 수 있습니다.
-	- Junit, REST Docs
+	- 동적 타입, 실행 컨텍스트, 비동기 동작에 대해 설명할 수 있습니다.
+- SpringBoot (중)
+	- web, flux	
 	- MyBatis, JPA, QueryDSL
 	- Spring Security
-	- Actutator, JMX
-- MSSQL(중)
+- MSSQL (중)
 	- [작성한 쿼리 예](https://github.com/Iol-lshh/portfolio/tree/main/MSSQL)
 	- 잠금과 인덱스, 물리조인에 대해 설명할 수 있습니다.
 	- 다른 영속성 시스템도 실행계획을 보며, 자유롭게 쿼리 작성 가능합니다.
-- .NET Framework(중하)
-- Spring Cloud (하)
-	- Netflix Eureka, Hystrix
-	- Spring Cloud Config
-	- Spring Cloud Gateway
-- EC2, ELB, ES3, Lambda 등의 AWS 서비스 경험(하)
-- Git(하)
-- Docker(하)
-- Vue(하), React(하)
+- .NET Framework (중하)
+- Git (하)
+- Vue (하)
+- SpringCloud (하)
+- AWS (하)
+- Docker (하)
+- React (하)
    
-Oracle Database, AWS EC2, Apache Tomcat, Flask, Java, JavaScript, MSSQL(Microsoft SQL Server), Python, Spring, Google Dialogflow, ASP.NET, JSP, MyBatis, RabbitMQ
+Oracle Database, AWS EC2, Spring, Java, JavaScript, MSSQL(Microsoft SQL Server), Spring, ASP.NET, JSP, MyBatis, RabbitMQ
 
 ## 제가 생각하는 상중하
 - 상 : 실제 물리적 작동 및 엔진을 완벽히 파악하고 있으며, 튜닝이 가능합니다. 스펙을 꿰뚫고 있습니다.   
