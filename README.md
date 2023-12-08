@@ -15,29 +15,32 @@
 	- Eden/Tenured 영역, 병렬 GC의 작동 기초를 설명할 수 있습니다.
 - JavaScript (중)
 	- [modern javascript(ES6+) 기초](https://github.com/Iol-lshh/style-guide/blob/main/javascript/doc_Js_Style.md)를 활용할 수 있습니다.
-	- 동적 타입, 실행 컨텍스트, 비동기 동작에 대해 설명할 수 있습니다.
+	- 동적 타입, 실행 컨텍스트, 비동기 동작, 슬롯, 함수, 프록시에 대해 설명할 수 있습니다.
 - SpringBoot (하)
 	- web, flux
 	- MyBatis, JPA
 	- Spring Security
  	- Actuator
-- MSSQL (중)
+  	- SpringCloud
+- MSSQL (하)
 	- [작성한 쿼리 예](https://github.com/Iol-lshh/portfolio/tree/main/MSSQL)
 	- 잠금과 인덱스, 물리조인에 대해 설명할 수 있습니다.
 	- 다른 영속성 시스템도 실행계획을 보며, 자유롭게 쿼리 작성 가능합니다.
+ 		- 운영자 수준은 아닙니다.
 - Git (하)
+	- 다양한 깃 전략에 대해 알고있습니다.	
 - Docker (하)
-- .NET Framework (하)
-- SpringCloud (하)
+	- 도커 파일과 도커 컴포즈 파일을 기초적으로 읽고 쓸 수 있습니다.	
 - Vue.js (하)
+	- 옵션 api와 컴포지션 api 방식의 구동 방식을 설명하고, 코드를 작성할 수 있습니다.
 - AWS (하)
-  
-Oracle Database, AWS EC2, Spring, Java, JavaScript, MSSQL(Microsoft SQL Server), Spring, ASP.NET, JSP, MyBatis, RabbitMQ
+	- ECS, EC2, Fargate에 대해 이론적으로 알고 있습니다.
+- .NET Framework (하)
 
 ## 제가 생각하는 상중하
 - 상 : 실제 물리적 작동 및 엔진을 완벽히 파악하고 있으며, 튜닝이 가능합니다. 스펙을 꿰뚫고 있습니다.   
-- 중 : 자유로운 작성이 가능하며, 구조와 퍼포먼스를 고려합니다. 기본입니다.   
-- 하 : 코드 파악이 가능하며, 작업이 가능합니다.   
+- 중 : 자유로운 작성이 가능하며, 구조와 퍼포먼스를 고려합니다. 기본입니다.
+- 하 : 코드 파악이 가능하며, 작업이 가능합니다. 
 
 ## 그 외,
 - OOP에서의 추상화와, 디자인 패턴(GoF)을 항상 고려합니다.
