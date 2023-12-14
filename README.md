@@ -1,3 +1,4 @@
+- 학습 노트 위치: <https://github.com/Iol-lshh/style-guide>
 
 # 자기소개
 ![stats](https://github-readme-stats.vercel.app/api?username=iol-lshh&count_private=true&show_icons=true&theme=buefy)
