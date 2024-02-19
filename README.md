@@ -9,35 +9,47 @@
 
 ## 보유 기술 스택
 - JAVA
-	- [modern java 기초](https://github.com/Iol-lshh/style-guide/blob/main/java/doc_Java_Style.md)를 활용할 수 있습니다.
+	- [modern java 기초](https://github.com/Iol-lshh/style-guide/blob/main/java/doc_Java_Style.md)를 활용 가능
 		- 동작 파라미터화, Optional, Stream API, Reflection API
-	- Eden/Tenured 영역, 병렬 GC의 작동 기초를 설명할 수 있습니다.
+	- Eden/Tenured 영역, 병렬 GC의 작동 기초를 설명 가능
 - JavaScript
-	- [javascript(ES6+) 기초](https://github.com/Iol-lshh/style-guide/blob/main/javascript/doc_Js_Style.md)를 활용할 수 있습니다.
-	- JavaScript의 기초 개념인 인터프리터, 동적 타입, 실행 컨텍스트, 비동기 동작, 슬롯, 함수, 프록시에 대해 설명할 수 있습니다.
+	- [javascript(ES6+) 기초](https://github.com/Iol-lshh/style-guide/blob/main/javascript/doc_Js_Style.md)를 활용 가능
+	- JavaScript의 기초 개념인 인터프리터, 동적 타입, 실행 컨텍스트, 비동기 동작, 슬롯, 함수, 프록시에 대해 설명 가능
 - SpringBoot
-	- 3.0에서의 기초적인 기능들을 활용할 수 있습니다.
+	- 3.0에서의 기초적인 기능들을 활용 가능
 		- web, flux
 		- unit, integration test
 		- MyBatis, JPA, Redisson
 		- profile
 		- Spring Security
 - MSSQL
-	- 잠금과 인덱스, 물리조인에 대해 설명할 수 있습니다.
-	- 다른 영속성 시스템도 실행계획을 보며, 자유롭게 쿼리 작성 가능합니다.
+	- 잠금과 인덱스, 물리조인에 대해 설명 가능
+	- 다른 영속성 시스템도 실행계획을 보며, 자유롭게 쿼리 작성 가능
 		- [작성할 수 있는 쿼리 수준..](https://github.com/Iol-lshh/portfolio/tree/main/MSSQL)
- 		- 운영자 수준은 아닙니다.
+ 		- (운영자 수준은 아닙니다.)
 - Git
-	- 기초적인 깃 명령을 할 수 있습니다.	
+	- 기초적인 깃 명령 능력	
 - Docker
-	- 도커 파일과 도커 컴포즈 파일을 기초적으로 읽고 쓸 수 있습니다.
+	- 도커 파일과 도커 컴포즈 파일을 기초적으로 읽고 쓸 수 있는 능력
 - Vue.js
-	- 옵션 api와 컴포지션 api 방식의 구동 방식을 설명하고, 코드를 작성할 수 있습니다.
+	- 옵션 api와 컴포지션 api 방식의 구동 방식을 설명하고, 코드를 작성할 수 있는 능력
 - AWS
-	- ECS(EC2, Fargate)를 기초적인 활용을 할 수 있습니다.
+	- ECS (EC2, Fargate)를 기초적인 활용을 할 수 있는 능력
 - .NET Framework
 
-## 학습 순서
+
+## 특징
+- 상시 [기계 공감 Mechanical Sympathy](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.mechanical-sympathy.en.html) 
+	- You don't have to be an engineer to be be a racing driver, but you do have to have Mechanical Sympathy. 
+		- Jackie Stewart, racing driver
+- [First Principles](https://jamesclear.com/first-principles)을 바탕으로 생각
+	- Elon Musk
+- 내가 쓰고 있는 것이 무엇인지, 정확한 기본을 알기 위해 상시 공부
+	- 기본이 가장 화려하다!
+- 추측만 내놓고 사라지는 개발자가 되지 않으려 함, 성능 테스트와 정량화 도구를 통한 객관적 수치 활용
+- 나의 인간 관계 키워드 : 센스, 몰입, 깨우침
+
+### 학습 순서 습관
 1. 기초를 알기
 	- 최초의 지평을 넓히기 
 	- 강의와 책, 구글링을 활용
@@ -45,17 +57,6 @@
 	- 정상적인 실행까지 시도
 3. 기본을 쌓아가기
 	- 기술적 지식을 공식 문서로부터 지속적으로 갱신
-
-## 항상 상기하는 점
-- [기계 공감 Mechanical Sympathy](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.mechanical-sympathy.en.html)을 노력하기
-	- You don't have to be an engineer to be be a racing driver, but you do have to have Mechanical Sympathy. 
-		- Jackie Stewart, racing driver
-- [First Principles](https://jamesclear.com/first-principles)
-	- Elon Musk
-- 내가 쓰고있는 것이 무엇인지, 정확한 기본을 알기 위해 항상 노력할 것
-	- 기본이 가장 화려하다!
-- 여러 추측만 내놓고 사라지는 개발자가 되지 않기
-	- 성능 테스트, 정량화 도구를 통한 객관적 수치 활용 하기
 
 ---
 
@@ -134,7 +135,7 @@
 > 	- [Java Swing을 활용한, 테블릿 메뉴판 연동 음식점 포스기
 .pdf](https://github.com/markhong93/portfolio/blob/main/Java%20Swing%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%85%8C%EB%B8%94%EB%A6%BF%20%EB%A9%94%EB%89%B4%ED%8C%90%20%EC%97%B0%EB%8F%99%20%EC%9D%8C%EC%8B%9D%EC%A0%90%20%ED%8F%AC%EC%8A%A4%EA%B8%B0/Java%20Swing%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%85%8C%EB%B8%94%EB%A6%BF%20%EB%A9%94%EB%89%B4%ED%8C%90%20%EC%97%B0%EB%8F%99%20%EC%9D%8C%EC%8B%9D%EC%A0%90%20%ED%8F%AC%EC%8A%A4%EA%B8%B0.pdf)   
 
-##  402 랩실 C 기초 스터디
+## 402 랩실 C 기초 스터디
 > - 기간: 2019.03 ~ 2020.06
    
 ---
