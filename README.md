@@ -37,17 +37,18 @@
 	- ECS (EC2, Fargate)를 기초적인 활용을 할 수 있는 능력
 - .NET Framework
 
-
 ## 특징
 - 상시 [기계 공감 Mechanical Sympathy](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.mechanical-sympathy.en.html) 
 	- You don't have to be an engineer to be be a racing driver, but you do have to have Mechanical Sympathy. 
 		- Jackie Stewart, racing driver
 - [First Principles](https://jamesclear.com/first-principles)을 바탕으로 생각
 	- Elon Musk
-- 내가 쓰고 있는 것이 무엇인지, 정확한 기본을 알기 위해 상시 공부
+- 기본을 위한 지속적인 공부
 	- 기본이 가장 화려하다!
-- 추측만 내놓고 사라지는 개발자가 되지 않으려 함, 성능 테스트와 정량화 도구를 통한 객관적 수치 활용
-- 나의 인간 관계 키워드 : 센스, 몰입, 깨우침
+- 추측만 내놓고 사라지는 개발자가 되지 않으려 함
+	- 성능 테스트와 정량화 도구를 통한 객관적 수치 활용하기
+- 나의 인간 관계 키워드
+	- 센스, 몰입, 깨우침
 
 ### 학습 순서 습관
 1. 기초를 알기
