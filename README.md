@@ -9,11 +9,11 @@
 
 ## 보유 기술 스택
 - JAVA
-	- [modern java 기초](https://github.com/Iol-lshh/style-guide/blob/main/java/doc_Java_Style.md)를 활용 가능
+	- [modern java 기초](https://github.com/Iol-lshh/style-guide/blob/main/IT/java/doc_Java_Style.md)를 활용 가능
 		- 동작 파라미터화, Optional, Stream API, Reflection API
 	- Eden/Tenured 영역, 병렬 GC의 작동 기초를 설명 가능
 - JavaScript
-	- [javascript(ES6+) 기초](https://github.com/Iol-lshh/style-guide/blob/main/javascript/doc_Js_Style.md)를 활용 가능
+	- [javascript(ES6+) 기초](https://github.com/Iol-lshh/style-guide/blob/main/IT/javascript/doc_Js_Style.md)를 활용 가능
 	- JavaScript의 기초 개념인 인터프리터, 동적 타입, 실행 컨텍스트, 비동기 동작, 슬롯, 함수, 프록시에 대해 설명 가능
 - SpringBoot
 	- 3.0에서의 기초적인 기능들을 활용 가능
