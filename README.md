@@ -16,24 +16,25 @@
 	- [javascript(ES6+) 기초](https://github.com/Iol-lshh/style-guide/blob/main/IT/javascript/doc_Js_Style.md)를 활용 가능
 	- JavaScript의 기초 개념인 인터프리터, 동적 타입, 실행 컨텍스트, 비동기 동작, 슬롯, 함수, 프록시에 대해 설명 가능
 - SpringBoot
-	- 3.0의 기초적인 기능들을 활용 가능
+	- 3.0의 기초적인 기능 활용
 		- web, flux
 		- unit, integration test
-		- MyBatis, Hibernate(JPA)
+		- MyBatis, Hibernate
 		- profile
 		- Spring Security
+  		- AOP, event
 - MSSQL
 	- 쿼리의 동작 방식, 트랜잭션(MVCC, 잠금, 격리 레벨), 인덱스(자료구조, 물리조인) 같은 기초를 설명 가능
 	- 실행계획을 보며, 쿼리와 프로시저, DDL, DML, OLTP, OLAP 작성 가능
  	- MySQL, PostgreSQL의 기초적인 차이점을 설명 가능
 - Git
-	- 기초적인 깃 명령 능력	
+	- 기초적인 깃 활용	
 - Docker
 	- 도커 파일과 도커 컴포즈 파일을 기초적으로 읽고 쓸 수 있는 능력
 - Vue.js
 	- 옵션 api와 컴포지션 api 방식의 구동 방식을 설명하고, 코드를 작성할 수 있는 능력
 - AWS
-	- ECS (EC2, Fargate)의 기초적인 활용을 할 수 있는 능력
+	- ECS (EC2, Fargate)의 기초적인 활용
 - .NET Framework
 
 ## 요즘 빠져있는 생각들..
