@@ -22,7 +22,7 @@
 		- MyBatis, Hibernate
 		- profile
 		- Spring Security
-  		- AOP, event
+  		- AOP
 - MSSQL
 	- 쿼리의 동작 방식, 트랜잭션(MVCC, 잠금, 격리 레벨), 인덱스(자료구조, 물리조인) 같은 기초를 설명 가능
 	- 실행계획을 보며, 쿼리와 프로시저, DDL, DML, OLTP, OLAP 작성 가능
