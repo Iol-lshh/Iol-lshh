@@ -64,7 +64,7 @@
    	  	- 성능을 위한 캐싱과 프록시 그리고 트레이드 오프들, 가상화 아이디어
 ---
 # 활동
-- [감명깊게 읽은 책들](https://github.com/Iol-lshh/Private-note/blob/01_feature/IT/practice/impressed_book.md)
+- [감명깊게 읽은 책들](https://github.com/Iol-lshh/style-guide/blob/main/IT/practice/impressed_book.md)
 ## 항해 플러스 
 > - 기간: 2023.12 ~ 2024.02
 > 1. [CI/CD, TDD, 동시성 처리, 로그, 장애 모니터링, 성능 테스트를 적용한 이커머스 프로젝트](https://github.com/Iol-lshh/hhp)
