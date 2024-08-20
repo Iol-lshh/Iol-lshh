@@ -19,7 +19,7 @@
 	- 3.0의 기초적인 기능 활용
 		- web, flux
 		- unit, integration test
-		- MyBatis, Hibernate
+		- MyBatis, JPA(Hibernate), QueryDSL
 		- profile
 		- Spring Security
   		- AOP
