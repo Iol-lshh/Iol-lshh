@@ -55,13 +55,6 @@
  		- Wroking Effectively with Legacy Code - Michael C. Feathers
    	- 좋은 코드는 Testable 하다. Testable 코드가 항상 좋은 코드는 아니지만, 적어도 Testable 하지 않은 코드보다는 좋다.
    	- 테스트 코드 짤 시간이 없다는 당신에게.. 당신의 1시간 희생이, 이후 당신 코드를 보는 (당신을 포함한) 모든 이들의 100시간을 아껴준다.
-- 엔지니어링의 핵심. 가상화, 동시성, 영속성
-	- 우리가 배우게 될 세 개의 주요 아이디어를 말한다네. 가상화, 동시성, 영속성이 바로 그 세 개의 아이디어네
- 		- Operating systems : three easy pieces - Arpaci-Dusseau 외 1명
-   	- 이는 서비스에서도 가용성을 위해 고려해야할, 주요 세 가지 아이디어라고 생각한다. (특히나 분산환경에서 더욱!)
-   		- 데이터를 보존하기 위한 영속성 설계
-   	 	- 비즈니스의 정합성을 위한 실시간 동시성 처리
-   	  	- 성능을 위한 캐싱과 프록시 그리고 트레이드 오프들, 가상화 아이디어
 ---
 # 활동
 - [감명깊게 읽은 책들](https://github.com/Iol-lshh/style-guide/blob/main/IT/practice/impressed_book.md)
