@@ -47,14 +47,10 @@
 	- 코드는 자산이 아니라 부채다. 코드 자체는 가치를 창출하지 않습니다. 가치를 만들어내는 건 바로 '기능'입니다. 
 사용자의 요구에 부합하는 기능이 자산입니다. 이 기능을 구현하는 코드는 그저 목적지로 가기 위한 수단인 것이죠.
 		- Software Engineering at Google - Titus Winters 외 2명
-  	- 코드를 읽기 쉽게 만들고, 없애기 쉽게 만들고, 변경하기 쉽게 만들기
-  		- OOP와 DDD
-  	 	- 시나리오 기반 회귀 테스트
-- 테스트가 없는 코드는 스크립트이다.
-	- 내게 레거시 코드란, 단순히 테스트 루틴이 없는 코드다.
- 		- Wroking Effectively with Legacy Code - Michael C. Feathers
-   	- 좋은 코드는 Testable 하다. Testable 코드가 항상 좋은 코드는 아니지만, 적어도 Testable 하지 않은 코드보다는 좋다.
-   	- 테스트 코드 짤 시간이 없다는 당신에게.. 당신의 1시간 희생이, 이후 당신 코드를 보는 (당신을 포함한) 모든 이들의 100시간을 아껴준다.
+	- 기술(Tech) < 기초(Fundemental) < 비즈니스(Domain) 
+- 내게 레거시 코드란, 단순히 테스트 루틴이 없는 코드다.
+	- Wroking Effectively with Legacy Code - Michael C. Feathers
+
 ---
 # 활동
 - [감명깊게 읽은 책들](https://github.com/Iol-lshh/style-guide/blob/main/IT/practice/impressed_book.md)
