@@ -16,6 +16,7 @@
 - 내게 레거시 코드란, 단순히 테스트 루틴이 없는 코드다.
 	- Wroking Effectively with Legacy Code - Michael C. Feathers
 ## 보유 자격증
+- AWS CLF-C02
 - 정보처리기사
 - SQLD
 
