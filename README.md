@@ -52,19 +52,19 @@
 ---
 # 활동
 - [감명깊게 읽은 책들](https://github.com/Iol-lshh/style-guide/blob/main/IT/practice/impressed_book.md)
-## 항해 플러스 
-> - 기간: 2023.12 ~ 2024.02
-> 1. [CI/CD, TDD, 동시성 처리, 로그, 장애 모니터링, 성능 테스트를 적용한 이커머스 프로젝트](https://github.com/Iol-lshh/hhp)
-> 2. [코딩 테스트 연습용 스니펫 오픈소스](https://github.com/StandardSolvers/ps-code-snippets)
->	- [IntelliJ 플러그인 배포](https://plugins.jetbrains.com/plugin/23770-ps-code-snippets)
 
-## 모던 자바스크립트 Deep Dive 스터디(저자 참여)
-> - 기간: 2021.03 ~ 2021.05
-> - ES6+ 에 대한 기본 습득
+  
+## OSS
+- [KeyHub 자료구조 오픈소스](https://github.com/keyhub-projects/kh-data)
+	- KhTable
+ 		- 테이블 자료구조 (VQL, JPA 참조)
+ 	- KhStream
+  		- 스트림 자료구조 (KsqlDB 참조)
+	- KhDocument, KhFragment
+  		- 도큐먼트 자료구조 (Mongo, 실시간 문서작성 구조 참조)
+- [코딩 테스트 연습용 스니펫 오픈소스](https://github.com/StandardSolvers/ps-code-snippets)
+	- [IntelliJ 플러그인 배포](https://plugins.jetbrains.com/plugin/23770-ps-code-snippets)
 
-## 402 랩실 학부 C 기초 스터디
-> - 기간: 2018.03 ~ 2019.06
-   
 ---
 
 # 기타
