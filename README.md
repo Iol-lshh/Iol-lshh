@@ -1,4 +1,4 @@
-- 학습 노트 위치: <[https://github.com/Iol-lshh/public-note](https://github.com/Iol-lshh/public-note)>
+- 블로그: <https://iol-lshh.github.io>
 
 # 자기소개
 ![stats](https://github-readme-stats.vercel.app/api?username=iol-lshh&count_private=true&show_icons=true&theme=buefy)
@@ -55,5 +55,5 @@
 ---
 
 # 기타
-> - [현재 기록 GitHub](https://github.com/Iol-lshh/style-guide)
+> - 블로그: <https://iol-lshh.github.io>
 > - [구 블로그](https://blog.naver.com/markhong93)   
