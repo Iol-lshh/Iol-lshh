@@ -12,7 +12,7 @@
 	- 코드는 자산이 아니라 부채다. 코드 자체는 가치를 창출하지 않습니다. 가치를 만들어내는 건 바로 '기능'입니다. 
 사용자의 요구에 부합하는 기능이 자산입니다. 이 기능을 구현하는 코드는 그저 목적지로 가기 위한 수단인 것이죠.
 		- Software Engineering at Google - Titus Winters 외 2명
-	- 기술(Tech) < 기초(Fundemental) < 비즈니스(Domain) 
+	- 기술(Tech) < 기초(Fundamental) < 비즈니스(Domain) 
 - 내게 레거시 코드란, 단순히 테스트 루틴이 없는 코드다.
 	- Wroking Effectively with Legacy Code - Michael C. Feathers
 ## 보유 자격증
