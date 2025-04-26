@@ -19,20 +19,13 @@
 
 ## 보유 기술 스택
 - Java
-	- [modern java 기초](https://github.com/Iol-lshh/style-guide/blob/main/IT/java/doc_Java_Style.md)를 활용 가능
-	- 동작 파라미터화, Optional, Stream API, Reflection API, JVM Eden/Tenured 영역, 병렬 GC의 작동 기초를 설명 가능
 - JavaScript
-	- [javascript(ES6+) 기초](https://github.com/Iol-lshh/style-guide/blob/main/IT/javascript/doc_Js_Style.md)를 활용 가능
-	- JavaScript의 기초 개념인 인터프리터, 동적 타입, 실행 컨텍스트, 비동기 동작, 슬롯, 함수, 프록시에 대해 설명 가능
 - SpringBoot
-	- 3.0의 기초적인 기능 활용
-	- Web, Flux, unit/integration test, MyBatis, JPA(Hibernate), QueryDSL, Profile(cicd), Security, AOP 등
-- MSSQL
+- SQL
 	- 쿼리의 동작 방식, 트랜잭션(MVCC, 잠금, 격리 레벨), 인덱스(자료구조, 물리조인) 같은 기초를 설명 가능
 	- 실행계획을 보며, 쿼리와 프로시저, DDL, DML, OLTP, OLAP 작성 가능
  	- MySQL, PostgreSQL의 기초적인 차이점을 설명 가능
 - Git
-	- 기초적인 깃 활용
 - Docker
 	- 도커 파일과 도커 컴포즈 파일을 기초적으로 읽고 쓸 수 있는 능력
 - Vue.js
