@@ -9,7 +9,7 @@
 - **코드는 부채다.** 개발자는 **기능**을 만들어내는 것이 **목적**이다.
 	- 코드는 자산이 아니라 부채다. 코드 자체는 가치를 창출하지 않습니다. 가치를 만들어내는 건 바로 '기능'입니다. 사용자의 요구에 부합하는 기능이 자산입니다. 이 기능을 구현하는 코드는 그저 목적지로 가기 위한 수단인 것이죠.
 		- Software Engineering at Google - Titus Winters 외 2명
-	- 기술(Tech) < 기초(Fundamental) < 비즈니스(Domain) 
+	- 조직 이해에 맞는 비즈니스 생산성을 극대화하는 방안. (DDD, XP, 애자일 등..)
 - 내게 레거시 코드란, 단순히 테스트 루틴이 없는 코드다.
 	- Wroking Effectively with Legacy Code - Michael C. Feathers
 ## 보유 자격증
@@ -17,25 +17,20 @@
 - 정보처리기사
 - SQLD
 
-## 보유 기술 스택
-- Java
+## 보유 기술 스택 (실무 경험만 기술)
+- Java, Kotlin (SpringBoot)
 - JavaScript
-- SpringBoot
-- SQL
-	- 쿼리의 동작 방식, 트랜잭션(MVCC, 잠금, 격리 레벨), 인덱스(자료구조, 물리조인) 같은 기초를 설명 가능
-	- 실행계획을 보며, 쿼리와 프로시저, DDL, DML, OLTP, OLAP 작성 가능
- 	- MySQL, PostgreSQL의 기초적인 차이점을 설명 가능
-- Git
+- SQL (MySQL, MSSQL)
+- Git 및 CI 파이프라인 구성
 - Docker
-	- 도커 파일과 도커 컴포즈 파일을 기초적으로 읽고 쓸 수 있는 능력
 - Vue.js
-	- 옵션 api와 컴포지션 api 방식의 구동 방식을 설명하고, 코드를 작성할 수 있는 능력
+- 캐싱과 비동기 설계
 ---
 
 ## OSS
 - [KeyHub 자료구조 오픈소스](https://github.com/keyhub-projects/kh-data)
 	- KhTable, 테이블 자료구조 (VQL, JPA 참조)
- 	- KhStream, 스트림 자료구조 (KsqlDB 참조)
+ 	- KhStream, 스트림 자료구조 (Kafka KsqlDB 참조)
 	- KhDocument/KhFragment, 도큐먼트 자료구조 (Mongo, 실시간 문서작성 구조 참조)
 - [코딩 테스트 연습용 스니펫 오픈소스](https://github.com/StandardSolvers/ps-code-snippets)
 	- [IntelliJ 플러그인 배포](https://plugins.jetbrains.com/plugin/23770-ps-code-snippets)
