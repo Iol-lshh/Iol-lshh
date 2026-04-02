@@ -7,8 +7,8 @@
 	- You don't have to be an engineer to be be a racing driver, but you do have to have Mechanical Sympathy. 
 		- Jackie Stewart, racing driver
 - 또한, 다양한 관점에서 고민하기
-  - 철학자의 입장에서: 경험, 선험, 해체
-  - 도메인 전문가의 입장에서: 근원적 목표, 장애, 단어
+  - 생각하는 사람의 입장에서: 경험, 선험, 해체
+  - 도메인 설계자의 입장에서: 근원적 목표, 장애, 단어
   - 엔지니어의 입장에서: 시간 레벨, 부분합과 전체합, 의존 방향
 - 하네스 깎이
   - 동시성(암달 - 포크조인, 생산소비, 리소스)
